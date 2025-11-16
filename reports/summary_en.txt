@@ -1,0 +1,1 @@
+Baseline ROI remains stable at 5.00±1.73 (200K records) with a near-zero spend→ROI correlation (0.00); Google Ads demonstrates the strongest blend of efficiency and stability. Recommendation: sustain core allocation on this channel and prioritize post-click conversion improvements.
