@@ -1,4 +1,4 @@
-# 📊 Marketing Campaign Intelligence Platform
+# Marketing Campaign Intelligence Platform
 
 ### Enterprise-Grade Performance Analytics • KPI Engine • ROI Efficiency Modeling • Executive Intelligence Dashboard
 
@@ -8,7 +8,7 @@ The system is built to meet the needs of modern data teams: **transparent transf
 
 ---
 
-## 🔥 Executive Summary
+## Summary
 
 Modern marketing organizations require consistent, auditable, and scalable analytics systems to track multi-channel performance.
 This project delivers:
@@ -26,7 +26,7 @@ The entire stack is **container-free, dependency-light, and cloud-deployable**, 
 
 ---
 
-# 🧱 Architecture Overview
+#  Architecture Overview
 
 A modular, layered BI architecture:
 
@@ -73,7 +73,7 @@ This mirrors the structure of enterprise BI systems such as Looker, Tableau Sema
 
 ---
 
-# 📁 System Components
+#  System Components
 
 ## 1. **Data Layer**
 
@@ -107,19 +107,19 @@ This layer decouples business logic from code — aligning with enterprise BI st
 
 The system performs advanced marketing diagnostics:
 
-### ✓ ROI Stability Modeling
+- ROI Stability Modeling
 
 *   Coefficient of Variation (CV)
 *   Multi-period smoothing
 *   Consistency ranking across channels
 
-### ✓ Efficiency vs Scale Analysis
+- Efficiency vs Scale Analysis
 
 *   ROI vs Spend Quadrants
 *   Identifying high-scale / high-ROI channels
 *   Budget reallocation insights
 
-### ✓ Trend Analytics
+- Trend Analytics
 
 *   Multi-period ROI trend
 *   Spend/CTR dynamics
@@ -127,11 +127,11 @@ The system performs advanced marketing diagnostics:
 
 ---
 
-# 🖥 Executive Dashboard
+#  Executive Dashboard
 
 The Streamlit BI dashboard provides a high-fidelity analytical interface inspired by enterprise BI design principles:
 
-### 📌 Features
+###  Features
 
 *   **KPI Tiles** with directional deltas
 *   **Daily Spend Trend**
@@ -142,7 +142,7 @@ The Streamlit BI dashboard provides a high-fidelity analytical interface inspire
 *   **Channel Stability Table** using CV
 *   **Full Monthly Performance Table**
 
-### 🎯 Design Principles
+###  Design Principles
 
 *   Decision-first visualization
 *   Minimal cognitive load
@@ -153,7 +153,7 @@ The Streamlit BI dashboard provides a high-fidelity analytical interface inspire
 
 ---
 
-# 🛠 Technology Stack
+#  Technology Stack
 
 | Layer           | Technology               |
 | --------------- | ------------------------ |
@@ -169,35 +169,35 @@ Enterprise-ready. Lightweight. Reproducible.
 
 ---
 
-# 🚀 Running in Local Environment
+1. Running in Local Environment
 
-### 1. Clone Repository
+ Clone Repository
 
 ```bash
 git clone https://github.com/niciiu/MarketingAnalyticsIntelligence.git
 cd MarketingAnalyticsIntelligence
 ```
 
-### 2. Create Virtual Environment
+2. Create Virtual Environment
 
 ```bash
 python -m venv .venv
 source .venv/bin/activate```
 
-### 3. Install Packages
+3. Install Packages
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Run ETL
+4. Run ETL
 
 ```bash
 python etl/load_to_sqlite.py
 python etl/apply_sql_views.py
 ```
 
-### 5. Launch Enterprise BI Dashboard
+5. Launch Enterprise BI Dashboard
 
 ```bash
 streamlit run streamlit/streamlit_app.py
@@ -205,29 +205,29 @@ streamlit run streamlit/streamlit_app.py
 
 ---
 
-# 📈 Strategic Business Value
+# Strategic Business Value
 
 This platform enables organizations to:
 
-### **1. Standardize KPI Computation Across Teams**
+1. Standardize KPI Computation Across Teams
 
 Centralizing KPI definitions reduces metric fragmentation — a common enterprise BI challenge.
 
-### **2. Identify High-Impact Channels Efficiently**
+2. Identify High-Impact Channels Efficiently
 
 Quadrant analysis enables strategic budget shifting from low-efficiency to high-efficiency channels.
 
-### **3. Monitor ROI Stability for Long-Term Planning**
+3. Monitor ROI Stability for Long-Term Planning
 
 Channels with high volatility require creative refinement or allocation safeguards.
 
-### **4. Reduce Time-to-Insight**
+4. Reduce Time-to-Insight
 
 Analysts, managers, and executives can access consistent data without manual processing.
 
 ---
 
-# 🔮 Next Steps (Enterprise Roadmap)
+# Next Steps (Enterprise Roadmap)
 
 | Enhancement                   | Description                                    |
 | ----------------------------- | ---------------------------------------------- |
@@ -240,9 +240,8 @@ Analysts, managers, and executives can access consistent data without manual pro
 
 ---
 
-# 👤 Author
+# Best Regards,
 
-**Nicki Utomo**
+**Nicki**
 Marketing Analytics • Business Intelligence • Data Engineering
 GitHub: [https://github.com/niciiu](https://github.com/niciiu)
-Portfolio-ready enterprise analytics solutions.
