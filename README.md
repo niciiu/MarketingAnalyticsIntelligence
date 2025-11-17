@@ -2,7 +2,7 @@
 
 ### Enterprise-Grade Performance Analytics • KPI Engine • ROI Efficiency Modeling • Executive Intelligence Dashboard
 
-This repository provides an **enterprise-class Marketing Intelligence Platform** designed to operationalize advertising performance, ROI stability, and channel-level efficiency through a scalable analytics pipeline supported by **SQLite, SQL views, and a high-fidelity Streamlit Business Intelligence Dashboard**.
+This repository provides an **Marketing Intelligence Platform** designed to operationalize advertising performance, ROI stability, and channel-level efficiency through a scalable analytics pipeline supported by **SQLite, SQL views, and a high-fidelity Streamlit Business Intelligence Dashboard**.
 
 The system is built to meet the needs of modern data teams: **transparent transformations, reproducible metrics, SQL-backed business rules, and real-time visualization** with minimal infrastructure overhead.
 
