@@ -1,4 +1,4 @@
-# Marketing Campaign Intelligence Platform
+# Marketing Campaign Intelligence System
 
 ### Enterprise-Grade Performance Analytics • KPI Engine • ROI Efficiency Modeling • Executive Intelligence Dashboard
 
